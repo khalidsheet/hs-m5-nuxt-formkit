@@ -1,0 +1,4 @@
+<template>
+  <!-- <FormKitRegular /> -->
+  <FormKitProgramatic />
+</template>
